@@ -1,3 +1,6 @@
 "this is new file" 
 
 tyring to cnfllict the merger
+
+
+edit through git hub lab
