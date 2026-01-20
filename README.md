@@ -14,3 +14,6 @@ so learing git hub pull push method
 4. git branch -M main
 5. git remote add origin https://github.com/Shansk007/pull-push.git
 6. git push -u origin main
+
+7. git log ---> to check the logs
+8. git log --oneline 
