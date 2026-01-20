@@ -18,6 +18,11 @@ so learing git hub pull push method
 7. git log ---> to check the logs
 8. git log --oneline 
 
+--------------------
+
+checking for 3rd branch
+
+adding it to git hub main branch using thrid branch
 --------------------------
 
 --> git brach branch-name
