@@ -23,3 +23,9 @@ so learing git hub pull push method
 checking for 3rd branch
 
 adding it to git hub main branch using thrid branch
+--------------------------
+
+--> git brach branch-name
+--> git push -u origin branch-name ---> push to git hub new branch
+--> git branch --> list all the branches 
+--> git switch branch-name --> will switch to another branch
