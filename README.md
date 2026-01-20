@@ -17,3 +17,10 @@ so learing git hub pull push method
 
 7. git log ---> to check the logs
 8. git log --oneline 
+
+--------------------------
+
+--> git brach branch-name
+--> git push -u origin branch-name ---> push to git hub new branch
+--> git branch --> list all the branches 
+--> git switch branch-name --> will switch to another branch
