@@ -26,3 +26,9 @@ adding it to git hub main branch using thrid branch
 
 
 adding few more lines to do it from command line interface
+--------------------------
+
+--> git brach branch-name
+--> git push -u origin branch-name ---> push to git hub new branch
+--> git branch --> list all the branches 
+--> git switch branch-name --> will switch to another branch
