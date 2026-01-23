@@ -27,3 +27,9 @@ EOF
 
 kubeadm join 172.31.9.138:6443 --token ydoq3x.hzp9eehswc8ecg02 \
         --discovery-token-ca-cert-hash sha256:3b056cc70b84ea4b3c98f7d4adefb9c21246ec694663e1b8237fec7172ce0215
+
+
+-----------------
+
+ctr plugins ls | grep cri
+
