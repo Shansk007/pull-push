@@ -33,3 +33,5 @@ kubeadm join 172.31.9.138:6443 --token ydoq3x.hzp9eehswc8ecg02 \
 
 ctr plugins ls | grep cri
 
+
+edit through vm
